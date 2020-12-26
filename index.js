@@ -1,1 +1,1 @@
-console.log('sub')
+import { GraphQLServer } from "graphql-yoga"
